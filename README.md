@@ -1,8 +1,6 @@
 # Lab2-JQuery
 First take the <a href="https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/e/quiz--javascript-recap">Khan quiz</a> to make sure you know basic javascript. In this assignment you will implement a jquery ajax call to get the current weather. 
 
-![Example of Weather Page](Screen%20Shot%202015-02-20%20at%202.05.21%20PM.png)
-
 You should put your html file in htdocs/lab2/weather.html so that the autograder can access it.  You can rename the github clone to this location.
 
 The weather section should do the following:
